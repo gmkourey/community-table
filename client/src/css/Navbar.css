@@ -1,0 +1,14 @@
+.navbar {
+    margin: 0px;
+    padding: 10px 30px;
+    border-bottom: solid 1px lightgrey;
+    text-align:center;
+}
+.header {
+    margin: 15px 0px;
+}
+.subheading {
+    color:grey;
+    font-size: 15px;
+    margin: 5px 0px;
+}

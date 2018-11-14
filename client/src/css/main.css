@@ -1,0 +1,67 @@
+.signInUpForm {
+    max-width: 200px;
+    margin-right: 0px;
+}
+.textField {
+    display: block;
+    padding: 0px 20px;
+  }
+.menuBar {
+    text-align:center;
+    margin:0px;
+}
+.menu {
+    list-style-type: none;
+    width: 200px;
+    margin: 0 auto;
+}
+.buttonStyle {
+    padding: 10px 15px;
+    background-color: orange;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-weight: 500px;
+    font-size: 20px;
+  }
+.buttonStyle:hover {
+    background-color:rgb(255, 130, 0);
+    cursor: pointer;
+}
+.error {
+    color: red;
+    font-size: 15px;
+}
+.changeLink {
+    text-align:center;
+}
+.changeLink:hover {
+    cursor: pointer;
+    color: lightgrey;
+}
+.fa-plus-circle {
+    color:green;
+    font-size: 25px;
+    margin-top: 10px;
+}
+.fa-minus-circle {
+    color: red;
+    font-size: 25px;
+    margin-top: 10px;
+}
+.fa-plus-circle:hover {
+    color:darkgreen;
+    cursor: pointer;
+
+}
+.fa-minus-circle:hover {
+    color: darkred;
+    cursor: pointer;
+}
+.form-row {
+    margin-top: 10px;
+}
+.card {
+    width: 18rem;
+    display: inline-block;
+}
